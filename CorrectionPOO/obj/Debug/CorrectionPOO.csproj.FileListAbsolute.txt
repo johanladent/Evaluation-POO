@@ -1,0 +1,7 @@
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\bin\Debug\CorrectionPOO.exe.config
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\bin\Debug\CorrectionPOO.exe
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\bin\Debug\CorrectionPOO.pdb
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\obj\Debug\CorrectionPOO.csprojAssemblyReference.cache
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\obj\Debug\CorrectionPOO.csproj.CoreCompileInputs.cache
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\obj\Debug\CorrectionPOO.exe
+C:\Users\Moi\Desktop\Evaluation POO\CorrectionPOO\CorrectionPOO\obj\Debug\CorrectionPOO.pdb
